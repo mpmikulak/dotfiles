@@ -1,0 +1,7 @@
+# This file contains fish universal variable definitions.
+# VERSION: 3.0
+SETUVAR --export CC:/home/linuxbrew/\x2elinuxbrew/bin/gcc\x2d14
+SETUVAR --export --path PKG_CONFIG_PATH:/home/linuxbrew/\x2elinuxbrew/lib/pkgconfig
+SETUVAR __fish_initialized:3800
+SETUVAR fish_key_bindings:fish_default_key_bindings
+SETUVAR fish_user_paths:/var/home/mmikulak/\x2elocal/bin/flutter/bin
