@@ -1,0 +1,12 @@
+[init]
+	defaultBranch = main
+[user]
+	email = mpmikulak@gmail.com
+	name = Mike Mikulak
+	signingkey = ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFNrO1gDPTRkFK6iXLiccprnyFMBTlYlRulJBp+d5Ava mpmikulak@gmail.com
+[gpg]
+	format = ssh
+[commit]
+	gpgsign = true
+[gpg "ssh"]
+	allowedSignersFile = /var/home/mmikulak/.ssh/allowed_signers
